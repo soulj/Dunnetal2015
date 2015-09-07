@@ -1,0 +1,24 @@
+Network Number	Network size	Empirical p-value	Top GO Biological Process
+1	5	0.0228	pyridine-containing compound biosynthetic process
+2	6	0.0014	anterior/posterior axon guidance
+3	20	1e-04	negative regulation of blood coagulation
+4	7	0.0016	organ morphogenesis
+5	37	1e-04	mitotic cell cycle
+6	4	0.0087	regulation of Ras GTPase activity
+7	25	1e-04	extracellular matrix organization
+8	4	0.0143	O-glycan processing
+9	6	0.0214	positive regulation of transcription from RNA polymerase II promoter
+10	8	0.0098	chromosome condensation
+11	4	0.0094	ovarian cumulus expansion
+12	15	2e-04	ER-associated ubiquitin-dependent protein catabolic process
+13	15	0.0032	apoptotic process
+14	6	0.0065	calcineurin-NFAT signaling cascade
+15	7	0.0134	acetylcholine secretion, neurotransmission
+16	8	6e-04	positive regulation of tyrosine phosphorylation of Stat3 protein
+17	8	0.0129	regionalization
+18	6	0.049	CAAX-box protein processing
+19	7	0.008	rhombomere formation
+20	4	0.0117	Wnt signaling pathway, calcium modulating pathway
+21	5	0.0196	positive regulation of receptor recycling
+22	5	0.0114	hepatocyte growth factor receptor signaling pathway
+23	5	0.0089	response to lipopolysaccharide

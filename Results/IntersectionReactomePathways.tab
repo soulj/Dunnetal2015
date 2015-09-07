@@ -1,0 +1,26 @@
+Term	Genes	Adjusted p-value
+Homo sapiens: Collagen formation	LAMB3 COL1A1 LEPREL1 COL9A1 COL16A1 COL11A2 COL9A2 COL12A1 COL6A3 COL15A1 COL1A2 LOXL3	1.03829302288573e-06
+Homo sapiens: Collagen biosynthesis and modifying enzymes	COL1A1 LEPREL1 COL9A1 COL16A1 COL11A2 COL9A2 COL12A1 COL6A3 COL15A1 COL1A2	5.35505013751035e-06
+Homo sapiens: Extracellular matrix organization	SERPINE1 LAMB3 COL1A1 LEPREL1 COL9A1 SDC3 COL16A1 COL11A2 COL9A2 FN1 COL12A1 MATN4 COL6A3 COL15A1 ITGB5 COL1A2 LOXL3	7.61735924014255e-06
+Homo sapiens: Collagen degradation	COL1A1 COL9A1 COL16A1 COL11A2 COL9A2 COL12A1 COL6A3 COL15A1 COL1A2	1.03468568438536e-05
+Homo sapiens: Degradation of the extracellular matrix	LAMB3 COL1A1 COL9A1 COL16A1 COL11A2 COL9A2 FN1 COL12A1 COL6A3 COL15A1 COL1A2	1.9789579758707e-05
+Homo sapiens: ECM proteoglycans	SERPINE1 COL1A1 COL9A1 COL9A2 FN1 MATN4 COL6A3 ITGB5 COL1A2	7.82913727108654e-05
+Homo sapiens: Assembly of collagen fibrils and other multimeric structures	LAMB3 COL1A1 COL11A2 COL6A3 COL15A1 COL1A2 LOXL3	0.00119147577431225
+Homo sapiens: Integrin cell surface interactions	COL1A1 COL9A1 COL16A1 COL9A2 FN1 COL6A3 ITGB5 COL1A2	0.00148068959858074
+Homo sapiens: Non-integrin membrane-ECM interactions	LAMB3 COL1A1 SDC3 COL11A2 FN1 ITGB5 COL1A2	0.0025940900256424
+Homo sapiens: Erythrocytes take up carbon dioxide and release oxygen	HBB AQP1 HBA2	0.00321976110372017
+Homo sapiens: Erythrocytes take up oxygen and release carbon dioxide	HBB AQP1 HBA2	0.00321976110372017
+Homo sapiens: O2/CO2 exchange in erythrocytes	HBB AQP1 HBA2	0.00321976110372017
+Homo sapiens: Syndecan interactions	COL1A1 SDC3 FN1 ITGB5 COL1A2	0.0046726265739101
+Homo sapiens: Regulation of Complement cascade	C4BPA CFH CD55 C3	0.00561255707905196
+Homo sapiens: Dissolution of Fibrin Clot	SERPINE1 SERPINE2 PLAUR	0.0145320409489903
+Homo sapiens: Complement cascade	C4BPA CFH CD55 C3	0.0190808255415625
+Homo sapiens: Amino acid transport across the plasma membrane	SLC16A10 SLC7A2 SLC7A5 SLC6A12	0.0244784544681418
+Homo sapiens: Crosslinking of collagen fibrils	COL1A1 COL1A2 LOXL3	0.0420384639436019
+Homo sapiens: Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	IGFBP3 IGFBP4 PAPPA	0.0583745656751593
+Homo sapiens: Anchoring fibril formation	LAMB3 COL1A1 COL1A2	0.0583745656751593
+Homo sapiens: Amino acid and oligopeptide SLC transporters	SLC16A10 SLC7A2 SLC7A5 SLC6A12	0.0583745656751593
+Homo sapiens: Binding and Uptake of Ligands by Scavenger Receptors	COL1A1 HBB HBA2 COL1A2	0.0704169642059707
+Homo sapiens: NCAM1 interactions	COL9A1 GFRA2 COL9A2 COL6A3	0.0704169642059707
+Homo sapiens: Antagonism of Activin by Follistatin	FSTL3 INHBA	0.0774386093606066
+Homo sapiens: NGF processing	NGF PCSK5	0.0775889595055887
